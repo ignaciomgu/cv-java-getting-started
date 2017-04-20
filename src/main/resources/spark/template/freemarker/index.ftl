@@ -25,7 +25,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="/images/IMG.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Ignacio Gallardo</h2>
+            <h2 color="white">Ignacio Gallardo</h2>
           </div>
         </div>
         <div class="w3-container">
@@ -44,11 +44,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
           </div>
-         <p>Patrones de Diseño</p>
+         <p>Patrones de Dise&ntilde;o</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
-          <p>Análisis</p>
+          <p>An&aacute;lisis</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
@@ -56,7 +56,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
-          <p>Seguridad Informática</p>
+          <p>Seguridad Inform&aacute;tica</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
@@ -73,7 +73,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:60%"></div>
           </div>
-         <p>Español</p>
+         <p>Espa&ntilde;ol</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
           </div>
@@ -92,7 +92,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Full Stack Developer / Muteware</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2016 - <span class="w3-tag w3-teal w3-round">Actualmente</span></h6>
-          <p>Desarrollo de aplicaciones Web y Móviles.</p>
+          <p>Desarrollo de aplicaciones Web y M&oacute;viles.</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -107,7 +107,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Desarrollo de enlatados.</p><br>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Developer / Centro de Investigacion y Desarrollo de Software del Ejército.</b></h5>
+          <h5 class="w3-opacity"><b>Software Developer / Centro de Investigaci&oacute;n y Desarrollo de Software del Ej&eacute;rcito.</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2011 - <span class="w3-tag w3-teal w3-round">Actualmente</span></h6>
           <p>Desarrollo de software orientados tanto para el entrenamiento de la fuerza como para comunicaciones en tiempo real.</p><br>
         </div>
@@ -130,13 +130,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Universidad de la Defensa Nacional</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2016</h6>
-          <p>Especialidad en Criptografía y Seguridad en Teleinformática</p>
+          <p>Especialidad en Criptograf&iacute;a y Seguridad en Teleinform&aacute;tica</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Universidad de Palermo</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2009 - 2015</h6>
-          <p>Ingeniería en Informática</p><br>
+          <p>Ingenier&iacute;a en Inform&aacute;tica</p><br>
         </div>
          <div class="w3-container">
           <h5 class="w3-opacity"><b>Universidad de Palermo</b></h5>
