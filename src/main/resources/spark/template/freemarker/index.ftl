@@ -114,6 +114,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2011 - <span class="w3-tag w3-teal w3-round">Actualmente</span></h6>
           <p>Desarrollo de software orientados tanto para el entrenamiento de la fuerza como para comunicaciones en tiempo real.</p><br>
         </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Pasante / HSBC Seguros.</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2010 - 2011</span></h6>
+          <p>Soporte IT</p><br>
+        </div>
       </div>
 
       <div class="w3-container w3-card-2 w3-white">
