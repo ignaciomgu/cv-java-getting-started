@@ -9,6 +9,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+#name {
+  color : "white";
+}
 </style>
 <body class="w3-light-grey">
 
@@ -25,7 +28,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="/images/IMG.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2 class="w3-white">Ignacio Gallardo</h2>
+            <h2 id="name">Ignacio Gallardo</h2>
           </div>
         </div>
         <div class="w3-container">
