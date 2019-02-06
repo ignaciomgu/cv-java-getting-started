@@ -45,7 +45,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>Frontend</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
          <p>Patrones de Dise&ntilde;o</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -124,14 +124,20 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card-2 w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
+              <h5 class="w3-opacity"><b>Universidad Nacional de La Plata</b></h5>
+              <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - <span class="w3-tag w3-teal w3-round">Actualmente</span></h6>
+              <p>Doctorado en Ciencias de la Computación</p>
+              <hr>
+        </div>
+        <div class="w3-container">
           <h5 class="w3-opacity"><b>Universidad Nacional de La Plata</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - <span class="w3-tag w3-teal w3-round">Actualmente</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - 2018</h6>
           <p>Magister en Redes de Datos</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Universidad Nacional de La Plata</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - <span class="w3-tag w3-teal w3-round">Actualmente</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - 2017</h6>
           <p>Especialidad en Seguridad y Redes</p>
           <hr>
         </div>
